@@ -14,6 +14,8 @@
     "electron-builder": "^22.6.1"
   },
   "build": {
-    "appId": "cn.medbanks.www"
+    "appId": "com.example.app",
+    "mac": {
+    }
   }
 }
